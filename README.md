@@ -3,10 +3,10 @@
   </h2>
 </div> 
 
-<img src="GifCoding.gif" alt="Looping">
+<img src="GifCoding.gif" alt="Looping" width="680">
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tobias-Fermiano&column=6&rank=A,B,C,SSS,SS,S,AAA,AA">
+  <img src="https://github-profile-trophy.vercel.app/?username=tobiasfermianoitl&column=6&rank=A,B,C,SSS,SS,S,AAA,AA">
 </div>
 
 <b>
@@ -44,10 +44,7 @@
 <div align="center">
 
 ```javascript
-if(Spotify == playing){
-  alert("I am coding")
-}else{
-  alert("I am sleeping")}
+spotify.isPlaying() ? alert("I'm coding!") : alert("I'm coding!");
 ```
 
 ![Snake animation](https://github.com/Tobias-Fermiano/Tobias-Fermiano/blob/output/github-contribution-grid-snake.svg) 
