@@ -49,5 +49,5 @@ spotify.isPlaying() ? alert("I'm coding!") : alert("I'm coding!");
 
 <div align="center">
 
-![Snake animation](https://github.com/Tobias-Fermiano/Tobias-Fermiano/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/tobiasfermianoitl/tobiasfermianoitl/blob/output/github-contribution-grid-snake.svg) 
 </div>
