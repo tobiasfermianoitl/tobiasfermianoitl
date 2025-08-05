@@ -41,11 +41,13 @@
 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21oz6ckox3pv7rlnyr6my5tzi&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21oz6ckox3pv7rlnyr6my5tzi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=03ab03&bar_color_cover=false)
 
-<div align="center">
+<div align="left" width="300">
 
 ```javascript
 spotify.isPlaying() ? alert("I'm coding!") : alert("I'm coding!");
 ```
+</div>
+<div align="center">
 
 ![Snake animation](https://github.com/Tobias-Fermiano/Tobias-Fermiano/blob/output/github-contribution-grid-snake.svg) 
 </div>
