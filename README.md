@@ -43,7 +43,7 @@
 <div align="left" width="300">
 
 ```javascript
-spotify.isPlaying() ? alert("I'm coding!") : alert("I'm coding!");
+spotify.isPlaying() ? alert("I'm coding!") : alert("I'm sleeping!");
 ```
 </div>
 
