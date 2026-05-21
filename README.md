@@ -5,6 +5,10 @@
 
 <img src="Gif3.gif" alt="Looping" width="670">
 
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=tobiasfermianoitl&column=6&rank=A,B,C,SSS,SS,S,AAA,AA">
+</div>
+
 <b>
   <p>
     <i>About me:</i>
